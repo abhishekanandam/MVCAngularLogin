@@ -1,0 +1,65 @@
+D:\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.dll.config
+D:\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.pdb
+D:\My Project\AnguarLogin\AnguarLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\Newtonsoft.Json.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Helpers.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Mvc.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Razor.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Deployment.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Razor.dll
+D:\My Project\AnguarLogin\AnguarLogin\bin\Newtonsoft.Json.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Helpers.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Mvc.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Razor.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Deployment.xml
+D:\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Razor.xml
+D:\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.csprojResolveAssemblyReference.cache
+D:\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.dll
+D:\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.pdb
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.dll.config
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\AnguarLogin.pdb
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\Microsoft.Web.Infrastructure.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\Newtonsoft.Json.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Helpers.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Mvc.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Razor.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Deployment.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Razor.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\Newtonsoft.Json.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Helpers.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Mvc.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.Razor.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Deployment.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\bin\System.Web.WebPages.Razor.xml
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.csprojResolveAssemblyReference.cache
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.dll
+E:\D Drive Data\My Project\AnguarLogin\AnguarLogin\obj\Debug\AnguarLogin.pdb
+C:\Abhishek\SampleProjects\MVCAngularLogin\obj\Debug\AnguarLogin.csprojResolveAssemblyReference.cache
+C:\Abhishek\SampleProjects\MVCAngularLogin\obj\Debug\AnguarLogin.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\obj\Debug\AnguarLogin.pdb
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\AnguarLogin.dll.config
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\AnguarLogin.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\AnguarLogin.pdb
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\Newtonsoft.Json.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Net.Http.Formatting.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Http.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Http.WebHost.dll
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\Newtonsoft.Json.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Net.Http.Formatting.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Http.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Http.WebHost.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Helpers.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Mvc.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.Razor.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.WebPages.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Abhishek\SampleProjects\MVCAngularLogin\bin\System.Web.WebPages.Razor.xml
